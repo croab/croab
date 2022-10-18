@@ -4,8 +4,8 @@
 <h3 align="center">🔭 A curious mind and aspiring full stack developer 🔭</h3>
 
 - 🎉 I am a recent graduate of the Le Wagon web development bootcamp (batch #990).
-- 🌱 I am currently diving deeper into the world of RoR, as I look to expand my knowledge of the framework.
-- 🪴 I am also learning to use React/Node.js./Express.js and beyond this will explore the use of TypeScript.
+- 🌱 I am currently developing my skills using Node.js/Express.js and diving deeper into the world of Ruby on Rails.
+- 🪴 I am also looking into (early stages) exploring the use of TypeScript.
 - 📚 I have recently started working through 'A Common-Sense Guide to Data Structures and Algorithms, 2e: Level Up Your Core Programming Skills'.
 - 💬 Ask me about anything related to the environment and sustainability 🌳
 
