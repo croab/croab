@@ -7,7 +7,7 @@
 - 🌱 I am currently developing my skills using Node.js/Express.js and diving deeper into the world of Ruby on Rails.
 - 🪴 I am also looking into (early stages) exploring the use of TypeScript.
 - 📚 I have recently started working through 'A Common-Sense Guide to Data Structures and Algorithms, 2e: Level Up Your Core Programming Skills'.
-- 📃 I am ready to sit my AWS Certified Cloud Practitioner exam on Monday 5th Dec! 
+- 📃 I am now an AWS Certified Cloud Practitioner! This explains my absence from GitHub recently!
 - 💬 Ask me about anything related to the environment and sustainability 🌳
 
 <h3>📫 Connect:</h3>
