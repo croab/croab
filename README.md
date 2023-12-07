@@ -3,11 +3,8 @@
 
 <h3 align="center">🔭 A curious mind and aspiring full stack developer 🔭</h3>
 
-- 🎉 I am a graduate of the Le Wagon web development bootcamp (batch #990).
-- 🌱 I am currently developing my skills using Node.js/Express.js and diving deeper into the world of Ruby on Rails.
-- 🪴 I am also looking into (early stages) exploring the use of TypeScript.
-- 📚 I have recently started working through 'A Common-Sense Guide to Data Structures and Algorithms, 2e: Level Up Your Core Programming Skills'.
-- 📃 I am now an AWS Certified Cloud Practitioner! This explains my absence from GitHub recently!
+- 🎉 Junior Ruby on Rails developer
+- 📃 I am now an AWS Certified Cloud Practitioner
 - 💬 Ask me about anything related to the environment and sustainability 🌳
 
 <h3>📫 Connect:</h3>
