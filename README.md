@@ -1,7 +1,7 @@
 <!-- https://github.com/kyechan99/capsule-render#color -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7fde40&height=300&section=header&text=Hi,%20I'm%20Ben!&fontColor=ffffff&fontSize=90&textBg=true)
 
-<h3 align="center">🔭 A curious mind and aspiring full stack developer 🔭</h3>
+<h3 align="center">🔭 A curious mind and full stack developer 🔭</h3>
 
 - 🎉 Junior Ruby on Rails developer
 - 📃 I am a AWS Certified Cloud Practitioner
