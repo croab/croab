@@ -3,7 +3,7 @@
 
 <h3 align="center">🔭 A curious mind and full stack developer 🔭</h3>
 
-- 🎉 Junior Ruby on Rails developer
+- 🎉 Ruby on Rails developer
 - 📃 I am a AWS Certified Cloud Practitioner
 - 💬 Ask me about anything related to the environment and sustainability 🌳
 
