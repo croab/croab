@@ -13,8 +13,8 @@
 <a href="https://linkedin.com/in/benjamin-croad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin-croad" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">📈 My stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=croab&" alt="croab" /></p>
+<!--<h3 align="left">📈 My stats:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=croab&" alt="croab" /></p>-->
 
 <!-- <h3 align="left">🏆 Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=croab" alt="croab" /></a> </p> -->
